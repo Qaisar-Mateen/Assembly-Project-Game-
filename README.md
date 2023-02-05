@@ -1,2 +1,2 @@
 # Assembly-Project-Game-
-IT is an assembly sea game with audio and keyboard support it is coded in x88 language and can be run on nasm
+IT is an assembly sea game with audio and keyboard support with day/night cycle, it is coded in x88 language and can be run on nasm. In this you are a fish, it's as simple as it can ever get, you are provided with a couple of fish and you jush have to collect the coins that spawn in sea and increase your score while the world out side the sea continue their daily life...
